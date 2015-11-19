@@ -4,6 +4,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+p {
+    font-size: 1.2em;
+}
+
 footer p {
     text-align: center;
 }
