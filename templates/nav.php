@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
             <span class="glyphicon glyphicon-film" aria-hidden="true"></span>
             MyMovies
         </a>
@@ -15,11 +15,11 @@
 
     <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="newfilm.html">Ajouter un Film</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="newfilm.php">Ajouter un Film</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="admin.html"><span class="glyphicon glyphicon-cog"></span>
+            <li><a href="admin.php"><span class="glyphicon glyphicon-cog"></span>
                     Administration</a></li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
