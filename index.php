@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
-<?php include("./templates/head.html"); ?>
+<?php include("./templates/head.php"); ?>
 <body>
-    <?php include("./templates/nav.html"); ?>
+    <?php include("./templates/nav.php"); ?>
 
     <div class="container">
         <div class="row">
@@ -27,6 +27,6 @@
         </div>
     </div>
 
-    <?php include("./templates/foot.html"); ?>
+    <?php include("./templates/foot.php"); ?>
 </body>
 </html>
