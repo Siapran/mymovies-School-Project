@@ -35,17 +35,3 @@
         </ul>
     </div>
 </nav>
-
-<script charset="utf-8">
-alert("test");
-$(document).ready(function() {
-    var str = location.href.toLowerCase();
-    $(".nav li a").each(function() {
-        alert(this.href);
-        if (str.indexOf(this.href.toLowerCase()) > -1) {
-            $("li.active").removeClass("active");
-            $(this).parent().addClass("active");
-        }
-    });
-})
-</script>
